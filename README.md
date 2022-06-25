@@ -1,0 +1,2 @@
+# E-Pharmacy
+A web application with the objective of enabling users to interact with pharmacy representatives via the internet, ask about their prescribed medication and optimised routes to the nearest pharmacy, getting feedback accordingly.  Further, I have provided a new customer complaints service on the application to enable customers to issue complaints on-line and receive a direct response from pharmacy representatives within 24hrs.
